@@ -1,0 +1,14 @@
+{
+  "name": "node-mock-or-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "port": 9000,
+  "serverUrl": "http://localhost:9001",
+  "mockDirectory": "api",
+  "useCORS": true
+}
